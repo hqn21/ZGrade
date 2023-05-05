@@ -1,0 +1,11 @@
+name: ZGrade
+main: ZeroK\ZGrade
+version: 1.0.0
+api: [3.0.0]
+load: POSTWORLD
+author: ZeroK
+description: A simple grade plugin
+commands:
+  zg:
+    description: 等級插件
+    usage: "/zg help"
